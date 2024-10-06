@@ -1,13 +1,15 @@
-import k_1 from './kids/k_1.jpg'
-import k_2 from './kids/k_2.jpg'
-import k_3 from './kids/k_3.jpg'
-import k_4 from './kids/k_4.jpg'
-import k_5 from './kids/k_5.jpg'
-import k_6 from './kids/k_6.jpg'
-import k_7 from './kids/k_7.jpg'
-import k_8 from './kids/k_8.jpg'
-import k_9 from './kids/k_9.jpg'
-import k_10 from './kids/k_10.jpg'
+import k_1 from './kids/k_1.jpeg'
+import k_2 from './kids/k_2.jpeg'
+import k_3 from './kids/k_3.jpeg'
+import k_4 from './kids/k_4.jpeg'
+import k_5 from './kids/k_5.jpeg'
+import k_6 from './kids/k_6.jpeg'
+import k_7 from './kids/k_7.jpeg'
+import k_8 from './kids/k_8.jpeg'
+import k_9 from './kids/k_9.jpeg'
+import k_10 from './kids/k_10.jpeg'
+import k_11 from './kids/k_10.jpeg'
+import k_12 from './kids/k_10.jpeg'
 
 // import 1_w from './women/1_w.jpg'
 import w_1 from './women/w_1.jpg'
@@ -112,6 +114,22 @@ let all_product =[
         name: "Traditional Wear for Girls",
         category:"kids",
         image: k_10,
+        new_price: 2250.0,
+        old_price: 2300.0,
+      },
+      {
+        id: 11,
+        name: "Traditional Wear for Boys",
+        category:"kids",
+        image: k_11,
+        new_price: 1150.0,
+        old_price: 1300.0,
+      },
+      {
+        id: 12,
+        name: "Traditional Wear for Girls",
+        category:"kids",
+        image: k_12,
         new_price: 2250.0,
         old_price: 2300.0,
       },
